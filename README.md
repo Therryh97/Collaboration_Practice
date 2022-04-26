@@ -1,3 +1,3 @@
 # Collaboration_Practice
 
-the quick brown
+the quick brown fox jumped over
